@@ -1,0 +1,16 @@
+{
+  "name": "Shadow Monarch OS",
+  "short_name": "MonarchOS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#010308",
+  "theme_color": "#010308",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/7500/7500021.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
